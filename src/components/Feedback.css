@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+}
+
+.button-list {
+    display: flex;
+    flex-direction: row;
+    gap: 18px;
+}
+
+h2 {
+    padding: 8px;
+}
